@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>English Buddy | 進捗</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="progress">
+    <header class="topbar">
+      <a class="logo" href="index.html">English Buddy</a>
+      <nav class="topnav" aria-label="Primary">
+        <a href="cards.html">カード</a>
+        <a href="quiz.html">クイズ</a>
+        <a href="progress.html" aria-current="page">進捗</a>
+        <a href="settings.html">設定</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="page-header">
+        <div>
+          <h1>進捗ダッシュボード</h1>
+          <p class="muted">学習の積み上げを可視化します。</p>
+        </div>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <h2>全体成績</h2>
+          <p class="stat-large" id="progress-accuracy">0%</p>
+          <div class="stat-grid">
+            <div>
+              <p class="stat-value" id="progress-total">0</p>
+              <p class="stat-label">回答数</p>
+            </div>
+            <div>
+              <p class="stat-value" id="progress-correct">0</p>
+              <p class="stat-label">正解数</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="card">
+          <h2>XPとレベル</h2>
+          <p class="stat-large" id="progress-level">Lv. 1</p>
+          <div class="progress-bar">
+            <span id="progress-xp-bar"></span>
+          </div>
+          <p class="muted" id="progress-xp-text">0 / 100 XP</p>
+        </article>
+
+        <article class="card">
+          <h2>連続学習</h2>
+          <p class="stat-large" id="progress-streak">0日</p>
+          <p class="muted">毎日5分でもOK。</p>
+        </article>
+      </section>
+
+      <section class="card">
+        <h2>カテゴリ別の達成度</h2>
+        <div class="category-list">
+          <div>
+            <div class="category-header">
+              <span>Daily</span>
+              <span id="progress-daily">0%</span>
+            </div>
+            <div class="progress-bar"><span id="progress-daily-bar"></span></div>
+          </div>
+          <div>
+            <div class="category-header">
+              <span>Business</span>
+              <span id="progress-business">0%</span>
+            </div>
+            <div class="progress-bar"><span id="progress-business-bar"></span></div>
+          </div>
+          <div>
+            <div class="category-header">
+              <span>IT</span>
+              <span id="progress-it">0%</span>
+            </div>
+            <div class="progress-bar"><span id="progress-it-bar"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>バッジ</h2>
+        <div class="badge-grid" id="progress-badges"></div>
+      </section>
+
+      <section class="card">
+        <h2>ローカルランキング</h2>
+        <p class="muted">端末内のサンプルランキングです。</p>
+        <ol class="ranking" id="progress-ranking"></ol>
+      </section>
+    </main>
+
+    <nav class="tabbar" aria-label="Primary">
+      <a href="index.html" data-tab="home">ホーム</a>
+      <a href="cards.html" data-tab="cards">カード</a>
+      <a href="quiz.html" data-tab="quiz">クイズ</a>
+      <a href="progress.html" data-tab="progress">進捗</a>
+      <a href="settings.html" data-tab="settings">設定</a>
+    </nav>
+
+    <script src="script.js"></script>
+  </body>
+</html>
