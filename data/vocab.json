@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "daily-001",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually have breakfast in the morning.",
+    "ja": "私はたいてい朝に朝食をとる。",
+    "example_en": "I usually have breakfast in the morning.",
+    "example_ja": "私はたいてい朝に朝食をとる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-002",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes have breakfast after work.",
+    "ja": "私はときどき仕事のあとに朝食をとる。",
+    "example_en": "I sometimes have breakfast after work.",
+    "example_ja": "私はときどき仕事のあとに朝食をとる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-003",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually check my messages in the morning.",
+    "ja": "私はたいてい朝にメッセージを確認する。",
+    "example_en": "I usually check my messages in the morning.",
+    "example_ja": "私はたいてい朝にメッセージを確認する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-004",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes check my messages after work.",
+    "ja": "私はときどき仕事のあとにメッセージを確認する。",
+    "example_en": "I sometimes check my messages after work.",
+    "example_ja": "私はときどき仕事のあとにメッセージを確認する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-005",
+    "category": "daily",
+    "level": 2,
+    "en": "I usually go for a walk in the morning.",
+    "ja": "私はたいてい朝に散歩に行く。",
+    "example_en": "I usually go for a walk in the morning.",
+    "example_ja": "私はたいてい朝に散歩に行く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-006",
+    "category": "daily",
+    "level": 3,
+    "en": "I sometimes go for a walk after work.",
+    "ja": "私はときどき仕事のあとに散歩に行く。",
+    "example_en": "I sometimes go for a walk after work.",
+    "example_ja": "私はときどき仕事のあとに散歩に行く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-007",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually make coffee in the morning.",
+    "ja": "私たいてい朝にコーヒーを入れる。",
+    "example_en": "I usually make coffee in the morning.",
+    "example_ja": "私はたいてい朝にコーヒーを入れる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-008",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes make coffee after work.",
+    "ja": "私はときどき仕事のあとにコーヒーを入れる。",
+    "example_en": "I sometimes make coffee after work.",
+    "example_ja": "私はときどき仕事のあとにコーヒーを入れる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-009",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually do the laundry in the morning.",
+    "ja": "私はたいてい朝に洗濯をする。",
+    "example_en": "I usually do the laundry in the morning.",
+    "example_ja": "私はたいてい朝に洗濯をする。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-010",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes do the laundry after work.",
+    "ja": "私はときどき仕事のあとに洗濯をする。",
+    "example_en": "I sometimes do the laundry after work.",
+    "example_ja": "私はときどき仕事のあとに洗濯をする。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-011",
+    "category": "daily",
+    "level": 2,
+    "en": "I usually cook dinner in the morning.",
+    "ja": "私はたいてい朝に夕食を作る。",
+    "example_en": "I usually cook dinner in the morning.",
+    "example_ja": "私はたいてい朝に夕食を作る。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-012",
+    "category": "daily",
+    "level": 3,
+    "en": "I sometimes cook dinner after work.",
+    "ja": "私はときどき仕事のあとに夕食を作る。",
+    "example_en": "I sometimes cook dinner after work.",
+    "example_ja": "私はときどき仕事のあとに夕食を作る。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-013",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually take a short break in the morning.",
+    "ja": "私はたいてい朝に短い休憩を取る。",
+    "example_en": "I usually take a short break in the morning.",
+    "example_ja": "私はたいてい朝に短い休憩を取る。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-014",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes take a short break after work.",
+    "ja": "私はときどき仕事のあとに短い休憩を取る。",
+    "example_en": "I sometimes take a short break after work.",
+    "example_ja": "私はときどき仕事のあとに短い休憩を取る。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-015",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually call my family in the morning.",
+    "ja": "私はたいてい朝に家族に電話する。",
+    "example_en": "I usually call my family in the morning.",
+    "example_ja": "私はたいてい朝に家族に電話する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-016",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes call my family after work.",
+    "ja": "私はときどき仕事のあとに家族に電話する。",
+    "example_en": "I sometimes call my family after work.",
+    "example_ja": "私はときどき仕事のあとに家族に電話する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-017",
+    "category": "daily",
+    "level": 2,
+    "en": "I usually read the news in the morning.",
+    "ja": "私はたいてい朝にニュースを読む。",
+    "example_en": "I usually read the news in the morning.",
+    "example_ja": "私はたいてい朝にニュースを読む。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-018",
+    "category": "daily",
+    "level": 3,
+    "en": "I sometimes read the news after work.",
+    "ja": "私はときどき仕事のあとにニュースを読む。",
+    "example_en": "I sometimes read the news after work.",
+    "example_ja": "私はときどき仕事のあとにニュースを読む。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-019",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually plan my day in the morning.",
+    "ja": "私はたいてい朝に一日の予定を立てる。",
+    "example_en": "I usually plan my day in the morning.",
+    "example_ja": "私はたいてい朝に一日の予定を立てる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-020",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes plan my day after work.",
+    "ja": "私はときどき仕事のあとに一日の予定を立てる。",
+    "example_en": "I sometimes plan my day after work.",
+    "example_ja": "私はときどき仕事のあとに一日の予定を立てる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-021",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually tidy up my room in the morning.",
+    "ja": "私はたいてい朝に部屋を片付ける。",
+    "example_en": "I usually tidy up my room in the morning.",
+    "example_ja": "私はたいてい朝に部屋を片付ける。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-022",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes tidy up my room after work.",
+    "ja": "私はときどき仕事のあとに部屋を片付ける。",
+    "example_en": "I sometimes tidy up my room after work.",
+    "example_ja": "私はときどき仕事のあとに部屋を片付ける。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-023",
+    "category": "daily",
+    "level": 2,
+    "en": "I usually water the plants in the morning.",
+    "ja": "私はたいてい朝に植物に水をやる。",
+    "example_en": "I usually water the plants in the morning.",
+    "example_ja": "私はたいてい朝に植物に水をやる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-024",
+    "category": "daily",
+    "level": 3,
+    "en": "I sometimes water the plants after work.",
+    "ja": "私はときどき仕事のあとに植物に水をやる。",
+    "example_en": "I sometimes water the plants after work.",
+    "example_ja": "私はときどき仕事のあとに植物に水をやる。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-025",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually practice pronunciation in the morning.",
+    "ja": "私はたいてい朝に発音練習をする。",
+    "example_en": "I usually practice pronunciation in the morning.",
+    "example_ja": "私はたいてい朝に発音練習をする。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-026",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes practice pronunciation after work.",
+    "ja": "私はときどき仕事のあとに発音練習をする。",
+    "example_en": "I sometimes practice pronunciation after work.",
+    "example_ja": "私はときどき仕事のあとに発音練習をする。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-027",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually review my notes in the morning.",
+    "ja": "私はたいてい朝にノートを見直す。",
+    "example_en": "I usually review my notes in the morning.",
+    "example_ja": "私はたいてい朝にノートを見直す。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-028",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes review my notes after work.",
+    "ja": "私はときどき仕事のあとにノートを見直す。",
+    "example_en": "I sometimes review my notes after work.",
+    "example_ja": "私はときどき仕事のあとにノートを見直す。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-029",
+    "category": "daily",
+    "level": 2,
+    "en": "I usually go to the gym in the morning.",
+    "ja": "私はたいてい朝にジムに行く。",
+    "example_en": "I usually go to the gym in the morning.",
+    "example_ja": "私はたいてい朝にジムに行く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-030",
+    "category": "daily",
+    "level": 3,
+    "en": "I sometimes go to the gym after work.",
+    "ja": "私はときどき仕事のあとにジムに行く。",
+    "example_en": "I sometimes go to the gym after work.",
+    "example_ja": "私はときどき仕事のあとにジムに行く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-031",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually prepare my lunch in the morning.",
+    "ja": "私はたいてい朝にお弁当を準備する。",
+    "example_en": "I usually prepare my lunch in the morning.",
+    "example_ja": "私はたいてい朝にお弁当を準備する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-032",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes prepare my lunch after work.",
+    "ja": "私はときどき仕事のあとにお弁当を準備する。",
+    "example_en": "I sometimes prepare my lunch after work.",
+    "example_ja": "私はときどき仕事のあとにお弁当を準備する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-033",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually take the train in the morning.",
+    "ja": "私はたいてい朝に電車に乗る。",
+    "example_en": "I usually take the train in the morning.",
+    "example_ja": "私はたいてい朝に電車に乗る。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-034",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes take the train after work.",
+    "ja": "私はときどき仕事のあとに電車に乗る。",
+    "example_en": "I sometimes take the train after work.",
+    "example_ja": "私はときどき仕事のあとに電車に乗る。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-035",
+    "category": "daily",
+    "level": 2,
+    "en": "I usually reply to a message in the morning.",
+    "ja": "私はたいてい朝にメッセージに返信する。",
+    "example_en": "I usually reply to a message in the morning.",
+    "example_ja": "私はたいてい朝にメッセージに返信する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-036",
+    "category": "daily",
+    "level": 3,
+    "en": "I sometimes reply to a message after work.",
+    "ja": "私はときどき仕事のあとにメッセージに返信する。",
+    "example_en": "I sometimes reply to a message after work.",
+    "example_ja": "私はときどき仕事のあとにメッセージに返信する。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-037",
+    "category": "daily",
+    "level": 1,
+    "en": "I usually listen to a podcast in the morning.",
+    "ja": "私はたいてい朝にポッドキャストを聴く。",
+    "example_en": "I usually listen to a podcast in the morning.",
+    "example_ja": "私はたいてい朝にポッドキャストを聴く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-038",
+    "category": "daily",
+    "level": 2,
+    "en": "I sometimes listen to a podcast after work.",
+    "ja": "私はときどき仕事のあとにポッドキャストを聴く。",
+    "example_en": "I sometimes listen to a podcast after work.",
+    "example_ja": "私はときどき仕事のあとにポッドキャストを聴く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-039",
+    "category": "daily",
+    "level": 3,
+    "en": "I usually write a short journal in the morning.",
+    "ja": "私はたいてい朝に短い日記を書く。",
+    "example_en": "I usually write a short journal in the morning.",
+    "example_ja": "私はたいてい朝に短い日記を書く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "daily-040",
+    "category": "daily",
+    "level": 1,
+    "en": "I sometimes write a short journal after work.",
+    "ja": "私はときどき仕事のあとに短い日記を書く。",
+    "example_en": "I sometimes write a short journal after work.",
+    "example_ja": "私はときどき仕事のあとに短い日記を書く。",
+    "tags": [
+      "routine"
+    ]
+  },
+  {
+    "id": "business-001",
+    "category": "business",
+    "level": 2,
+    "en": "We should review the proposal before the meeting.",
+    "ja": "会議前に提案書をレビューするべきです。",
+    "example_en": "We should review the proposal before the meeting.",
+    "example_ja": "会議前に提案書をレビューするべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-002",
+    "category": "business",
+    "level": 3,
+    "en": "I will review the proposal by tomorrow.",
+    "ja": "私は明日までに提案書をレビューする予定です。",
+    "example_en": "I will review the proposal by tomorrow.",
+    "example_ja": "私は明日までに提案書をレビューする予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-003",
+    "category": "business",
+    "level": 1,
+    "en": "We should share the timeline before the meeting.",
+    "ja": "会議前にスケジュールを共有するべきです。",
+    "example_en": "We should share the timeline before the meeting.",
+    "example_ja": "会議前にスケジュールを共有するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-004",
+    "category": "business",
+    "level": 2,
+    "en": "I will share the timeline by tomorrow.",
+    "ja": "私は日までにスケジュールを共有する予定です。",
+    "example_en": "I will share the timeline by tomorrow.",
+    "example_ja": "私は明日までにスケジュールを共有する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-005",
+    "category": "business",
+    "level": 3,
+    "en": "We should confirm the scope before the meeting.",
+    "ja": "会議前に範囲を確認するべきです。",
+    "example_en": "We should confirm the scope before the meeting.",
+    "example_ja": "会議前に範囲を確認するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-006",
+    "category": "business",
+    "level": 1,
+    "en": "I will confirm the scope by tomorrow.",
+    "ja": "私は明日までに範囲を確認する予定です。",
+    "example_en": "I will confirm the scope by tomorrow.",
+    "example_ja": "私は明日までに範囲を確認する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-007",
+    "category": "business",
+    "level": 2,
+    "en": "We should send the minutes before the meeting.",
+    "ja": "会議前に議事録を送付するべきです。",
+    "example_en": "We should send the minutes before the meeting.",
+    "example_ja": "会議前に議事録を送付するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-008",
+    "category": "business",
+    "level": 3,
+    "en": "I will send the minutes by tomorrow.",
+    "ja": "私は明日までに議事録を送付する予定です。",
+    "example_en": "I will send the minutes by tomorrow.",
+    "example_ja": "私は明日までに議事録を送付する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-009",
+    "category": "business",
+    "level": 1,
+    "en": "We should prepare the slides before the meeting.",
+    "ja": "会議前にスライドを準備するべきです。",
+    "example_en": "We should prepare the slides before the meeting.",
+    "example_ja": "会議前にスライドを準備するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-010",
+    "category": "business",
+    "level": 2,
+    "en": "I will prepare the slides by tomorrow.",
+    "ja": "私は明日までにスライドを準備する予定です。",
+    "example_en": "I will prepare the slides by tomorrow.",
+    "example_ja": "私は明日までにスライドを準備する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-011",
+    "category": "business",
+    "level": 3,
+    "en": "We should set up a call before the meeting.",
+    "ja": "会議前に通話を設定するべきです。",
+    "example_en": "We should set up a call before the meeting.",
+    "example_ja": "会議前に通話を設定するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-012",
+    "category": "business",
+    "level": 1,
+    "en": "I will set up a call by tomorrow.",
+    "ja": "私は明日までに通話を設定する予定です。",
+    "example_en": "I will set up a call by tomorrow.",
+    "example_ja": "私は明日までに通話を設定する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-013",
+    "category": "business",
+    "level": 2,
+    "en": "We should check the budget before the meeting.",
+    "ja": "会議前に予算を確認するべきです。",
+    "example_en": "We should check the budget before the meeting.",
+    "example_ja": "会議前に予算を確認するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-014",
+    "category": "business",
+    "level": 3,
+    "en": "I will check the budget by tomorrow.",
+    "ja": "私は明日までに予算を確認する予定です。",
+    "example_en": "I will check the budget by tomorrow.",
+    "example_ja": "私は明日までに予算を確認する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-015",
+    "category": "business",
+    "level": 1,
+    "en": "We should draft the contract before the meeting.",
+    "ja": "会議前に契約書の草案を作成するべきです。",
+    "example_en": "We should draft the contract before the meeting.",
+    "example_ja": "会議前に契約書の草案を作成するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-016",
+    "category": "business",
+    "level": 2,
+    "en": "I will draft the contract by tomorrow.",
+    "ja": "私は明日までに契約書の草案を作成する予定です。",
+    "example_en": "I will draft the contract by tomorrow.",
+    "example_ja": "私は明日までに契約書の草案を作成する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-017",
+    "category": "business",
+    "level": 3,
+    "en": "We should coordinate with the team before the meeting.",
+    "ja": "会議前にチームと調整するべきです。",
+    "example_en": "We should coordinate with the team before the meeting.",
+    "example_ja": "会議前にチームと調整するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-018",
+    "category": "business",
+    "level": 1,
+    "en": "I will coordinate with the team by tomorrow.",
+    "ja": "私は明日までにチームと調整する予定です。",
+    "example_en": "I will coordinate with the team by tomorrow.",
+    "example_ja": "私は明日までにチームと調整する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-019",
+    "category": "business",
+    "level": 2,
+    "en": "We should report the status before the meeting.",
+    "ja": "会議前に進捗を報告するべきです。",
+    "example_en": "We should report the status before the meeting.",
+    "example_ja": "会議前に進捗を報告するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-020",
+    "category": "business",
+    "level": 3,
+    "en": "I will report the status by tomorrow.",
+    "ja": "私は明日までに進捗を報告する予定です。",
+    "example_en": "I will report the status by tomorrow.",
+    "example_ja": "私は明日までに進捗を報告する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-021",
+    "category": "business",
+    "level": 1,
+    "en": "We should clarify the requirements before the meeting.",
+    "ja": "会議前に要件を明確化するべきです。",
+    "example_en": "We should clarify the requirements before the meeting.",
+    "example_ja": "会議前に要件を明確化するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-022",
+    "category": "business",
+    "level": 2,
+    "en": "I will clarify the requirements by tomorrow.",
+    "ja": "私は明日までに要件を明確化する予定です。",
+    "example_en": "I will clarify the requirements by tomorrow.",
+    "example_ja": "私は明日までに要件を明確化する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-023",
+    "category": "business",
+    "level": 3,
+    "en": "We should follow up by email before the meeting.",
+    "ja": "会議前にメールでフォローするべきです。",
+    "example_en": "We should follow up by email before the meeting.",
+    "example_ja": "会議前にメールでフォローするべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-024",
+    "category": "business",
+    "level": 1,
+    "en": "I will follow up by email by tomorrow.",
+    "ja": "私は明日までにメールでフォローする予定です。",
+    "example_en": "I will follow up by email by tomorrow.",
+    "example_ja": "私は明日までにメールでフォローする予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-025",
+    "category": "business",
+    "level": 2,
+    "en": "We should summarize the discussion before the meeting.",
+    "ja": "会議前に議論を要約するべきです。",
+    "example_en": "We should summarize the discussion before the meeting.",
+    "example_ja": "会議前に議論を要約するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-026",
+    "category": "business",
+    "level": 3,
+    "en": "I will summarize the discussion by tomorrow.",
+    "ja": "私は明日までに議論を要約する予定です。",
+    "example_en": "I will summarize the discussion by tomorrow.",
+    "example_ja": "私は明日までに議論を要約する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-027",
+    "category": "business",
+    "level": 1,
+    "en": "We should finalize the agenda before the meeting.",
+    "ja": "会議前に議題を確定するべきです。",
+    "example_en": "We should finalize the agenda before the meeting.",
+    "example_ja": "会議前に議題を確定するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-028",
+    "category": "business",
+    "level": 2,
+    "en": "I will finalize the agenda by tomorrow.",
+    "ja": "私は明日までに議題を確定する予定です。",
+    "example_en": "I will finalize the agenda by tomorrow.",
+    "example_ja": "私は明日までに議題を確定する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-029",
+    "category": "business",
+    "level": 3,
+    "en": "We should update the client before the meeting.",
+    "ja": "会議前にクライアントに状況共有するべきです。",
+    "example_en": "We should update the client before the meeting.",
+    "example_ja": "会議前にクライアントに状況共有するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-030",
+    "category": "business",
+    "level": 1,
+    "en": "I will update the client by tomorrow.",
+    "ja": "私は明日までにクライアントに状況共有する予定です。",
+    "example_en": "I will update the client by tomorrow.",
+    "example_ja": "私は明日までにクライアントに状況共有する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-031",
+    "category": "business",
+    "level": 2,
+    "en": "We should organize the documents before the meeting.",
+    "ja": "会議前に資料を整理するべきです。",
+    "example_en": "We should organize the documents before the meeting.",
+    "example_ja": "会議前に資料を整理するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-032",
+    "category": "business",
+    "level": 3,
+    "en": "I will organize the documents by tomorrow.",
+    "ja": "私は明日までに資料を整理する予定です。",
+    "example_en": "I will organize the documents by tomorrow.",
+    "example_ja": "私は明日までに資料を整理する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-033",
+    "category": "business",
+    "level": 1,
+    "en": "We should confirm the meeting time before the meeting.",
+    "ja": "会議前に会議時間を確認するべきです。",
+    "example_en": "We should confirm the meeting time before the meeting.",
+    "example_ja": "会議前に会議時間を確認するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-034",
+    "category": "business",
+    "level": 2,
+    "en": "I will confirm the meeting time by tomorrow.",
+    "ja": "私は明日までに会議時間を確認する予定です。",
+    "example_en": "I will confirm the meeting time by tomorrow.",
+    "example_ja": "私は明日までに会議時間を確認する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-035",
+    "category": "business",
+    "level": 3,
+    "en": "We should prepare the report before the meeting.",
+    "ja": "会議前にレポートを準備するべきです。",
+    "example_en": "We should prepare the report before the meeting.",
+    "example_ja": "会議前にレポートを準備するべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-036",
+    "category": "business",
+    "level": 1,
+    "en": "I will prepare the report by tomorrow.",
+    "ja": "私は明日までにレポートを準備する予定です。",
+    "example_en": "I will prepare the report by tomorrow.",
+    "example_ja": "私は明日までにレポートを準備する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-037",
+    "category": "business",
+    "level": 2,
+    "en": "We should align on priorities before the meeting.",
+    "ja": "会議前に優先順位をすり合わせるべきです。",
+    "example_en": "We should align on priorities before the meeting.",
+    "example_ja": "会議前に優先順位をすり合わせるべきです。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-038",
+    "category": "business",
+    "level": 3,
+    "en": "I will align on priorities by tomorrow.",
+    "ja": "私は明日までに優先順位をすり合わせる予定です。",
+    "example_en": "I will align on priorities by tomorrow.",
+    "example_ja": "私は明日までに優先順位をすり合わせる予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-039",
+    "category": "business",
+    "level": 1,
+    "en": "We should close the open items before the meeting.",
+    "ja": "会議前に未完了項目を整理するべきです。",
+    "example_en": "We should close the open items before the meeting.",
+    "example_ja": "会議前に未完了項目を整理するべきす。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "business-040",
+    "category": "business",
+    "level": 2,
+    "en": "I will close the open items by tomorrow.",
+    "ja": "私は明日までに未完了項目を整理する予定です。",
+    "example_en": "I will close the open items by tomorrow.",
+    "example_ja": "私は明日までに未完了項目を整理する予定です。",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "id": "it-001",
+    "category": "it",
+    "level": 3,
+    "en": "We need to deploy the build today.",
+    "ja": "今日はビルドをデプロイする必要があります。",
+    "example_en": "We need to deploy the build today.",
+    "example_ja": "今日はビルドをデプロイする必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-002",
+    "category": "it",
+    "level": 1,
+    "en": "Can you deploy the build before lunch?",
+    "ja": "昼までにビルドをデプロイすることはできますか？",
+    "example_en": "Can you deploy the build before lunch?",
+    "example_ja": "昼までにビルドをデプロイすることはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-003",
+    "category": "it",
+    "level": 2,
+    "en": "We need to merge the pull request today.",
+    "ja": "今日はプルリクエストをマージする必要があります。",
+    "example_en": "We need to merge the pull request today.",
+    "example_ja": "今日はプルリクエストをマージする必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-004",
+    "category": "it",
+    "level": 3,
+    "en": "Can you merge the pull request before lunch?",
+    "ja": "昼までにプルリクエストをマージすることはできますか？",
+    "example_en": "Can you merge the pull request before lunch?",
+    "example_ja": "昼までにプルリクエストをマージすることはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-005",
+    "category": "it",
+    "level": 1,
+    "en": "We need to fix the bug today.",
+    "ja": "今日はバグを修正する必要があります。",
+    "example_en": "We need to fix the bug today.",
+    "example_ja": "今日はバグを修正する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-006",
+    "category": "it",
+    "level": 2,
+    "en": "Can you fix the bug before lunch?",
+    "ja": "昼までにバグを修正することはできますか？",
+    "example_en": "Can you fix the bug before lunch?",
+    "example_ja": "昼までにバグを修正することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-007",
+    "category": "it",
+    "level": 3,
+    "en": "We need to write unit tests today.",
+    "ja": "今日はユニットテストを作成する必要があります。",
+    "example_en": "We need to write unit tests today.",
+    "example_ja": "今日はユニットテストを作成する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-008",
+    "category": "it",
+    "level": 1,
+    "en": "Can you write unit tests before lunch?",
+    "ja": "昼までにユニットテストを作成することはできますか？",
+    "example_en": "Can you write unit tests before lunch?",
+    "example_ja": "昼までにユニットテストを作成することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-009",
+    "category": "it",
+    "level": 2,
+    "en": "We need to review the code today.",
+    "ja": "今日はコードをレビューする必要があります。",
+    "example_en": "We need to review the code today.",
+    "example_ja": "今日はコードをレビューする必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-010",
+    "category": "it",
+    "level": 3,
+    "en": "Can you review the code before lunch?",
+    "ja": "昼までにコードをレビューすることはできますか？",
+    "example_en": "Can you review the code before lunch?",
+    "example_ja": "昼までにコードをレビューすることはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-011",
+    "category": "it",
+    "level": 1,
+    "en": "We need to update the documentation today.",
+    "ja": "今日はドキュメントを更新する必要があります。",
+    "example_en": "We need to update the documentation today.",
+    "example_ja": "今日はドキュメントを更新する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-012",
+    "category": "it",
+    "level": 2,
+    "en": "Can you update the documentation before lunch?",
+    "ja": "昼までにドキュメントを更新することはできますか？",
+    "example_en": "Can you update the documentation before lunch?",
+    "example_ja": "昼までにドキュメントを更新することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-013",
+    "category": "it",
+    "level": 3,
+    "en": "We need to monitor the server today.",
+    "ja": "今日はサーバーを監視する必要があります。",
+    "example_en": "We need to monitor the server today.",
+    "example_ja": "今日はサーバーを監視する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-014",
+    "category": "it",
+    "level": 1,
+    "en": "Can you monitor the server before lunch?",
+    "ja": "昼までにサーバーを監視することはできますか？",
+    "example_en": "Can you monitor the server before lunch?",
+    "example_ja": "昼までにサーバーを監視することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-015",
+    "category": "it",
+    "level": 2,
+    "en": "We need to rollback the release today.",
+    "ja": "今日はリリースをロールバックする必要があります。",
+    "example_en": "We need to rollback the release today.",
+    "example_ja": "今日はリリースをロールバックする必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-016",
+    "category": "it",
+    "level": 3,
+    "en": "Can you rollback the release before lunch?",
+    "ja": "昼までにリリースをロールバックすることはできますか？",
+    "example_en": "Can you rollback the release before lunch?",
+    "example_ja": "昼までにリリースをロールバックすることはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-017",
+    "category": "it",
+    "level": 1,
+    "en": "We need to optimize the query today.",
+    "ja": "今日はクエリを最適化する必要があります。",
+    "example_en": "We need to optimize the query today.",
+    "example_ja": "今日はクエリを最適化する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-018",
+    "category": "it",
+    "level": 2,
+    "en": "Can you optimize the query before lunch?",
+    "ja": "昼までにクエリを最適化することはできますか？",
+    "example_en": "Can you optimize the query before lunch?",
+    "example_ja": "昼までにクエリを最適化することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-019",
+    "category": "it",
+    "level": 3,
+    "en": "We need to plan the sprint today.",
+    "ja": "今日はスプリントを計画する必要があります。",
+    "example_en": "We need to plan the sprint today.",
+    "example_ja": "今日はスプリントを計画する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-020",
+    "category": "it",
+    "level": 1,
+    "en": "Can you plan the sprint before lunch?",
+    "ja": "昼までにスプリントを計画することはできますか？",
+    "example_en": "Can you plan the sprint before lunch?",
+    "example_ja": "昼までにスプリントを計画することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-021",
+    "category": "it",
+    "level": 2,
+    "en": "We need to configure the pipeline today.",
+    "ja": "今日はパイプラインを設定する必要があります。",
+    "example_en": "We need to configure the pipeline today.",
+    "example_ja": "今日はパイプラインを設定する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-022",
+    "category": "it",
+    "level": 3,
+    "en": "Can you configure the pipeline before lunch?",
+    "ja": "昼までにパイプラインを設定することはできますか？",
+    "example_en": "Can you configure the pipeline before lunch?",
+    "example_ja": "昼までにパイプラインを設定することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-023",
+    "category": "it",
+    "level": 1,
+    "en": "We need to resolve the incident today.",
+    "ja": "今日はインシデントを解決する必要があります。",
+    "example_en": "We need to resolve the incident today.",
+    "example_ja": "今日はインシデントを解決する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-024",
+    "category": "it",
+    "level": 2,
+    "en": "Can you resolve the incident before lunch?",
+    "ja": "昼までにインシデントを解決することはできますか？",
+    "example_en": "Can you resolve the incident before lunch?",
+    "example_ja": "昼までにインシデントを解決することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-025",
+    "category": "it",
+    "level": 3,
+    "en": "We need to check the logs today.",
+    "ja": "今日はログを確認する必要があります。",
+    "example_en": "We need to check the logs today.",
+    "example_ja": "今日はログを確認する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-026",
+    "category": "it",
+    "level": 1,
+    "en": "Can you check the logs before lunch?",
+    "ja": "昼までにログを確認することはできますか？",
+    "example_en": "Can you check the logs before lunch?",
+    "example_ja": "昼までにログを確認することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-027",
+    "category": "it",
+    "level": 2,
+    "en": "We need to estimate the task today.",
+    "ja": "今日はタスクを見積もる必要があります。",
+    "example_en": "We need to estimate the task today.",
+    "example_ja": "今日はタスクを見積もる必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-028",
+    "category": "it",
+    "level": 3,
+    "en": "Can you estimate the task before lunch?",
+    "ja": "昼までにタスクを見積もることはできますか？",
+    "example_en": "Can you estimate the task before lunch?",
+    "example_ja": "昼までにタスクを見積もることはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-029",
+    "category": "it",
+    "level": 1,
+    "en": "We need to update dependencies today.",
+    "ja": "今日は依存関係を更新する必要があります。",
+    "example_en": "We need to update dependencies today.",
+    "example_ja": "今日は依存関係を更新する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-030",
+    "category": "it",
+    "level": 2,
+    "en": "Can you update dependencies before lunch?",
+    "ja": "昼までに依存関係を更新することはできますか？",
+    "example_en": "Can you update dependencies before lunch?",
+    "example_ja": "昼までに依存関係を更新することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-031",
+    "category": "it",
+    "level": 3,
+    "en": "We need to refactor the module today.",
+    "ja": "今日はモジュールをリファクタリングする必要があります。",
+    "example_en": "We need to refactor the module today.",
+    "example_ja": "今日はモジュールをリファクタリングする必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-032",
+    "category": "it",
+    "level": 1,
+    "en": "Can you refactor the module before lunch?",
+    "ja": "昼までにモジュールをリファクタリングすることはできますか？",
+    "example_en": "Can you refactor the module before lunch?",
+    "example_ja": "昼までにモジュールをリファクタリングすることはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-033",
+    "category": "it",
+    "level": 2,
+    "en": "We need to create a feature flag today.",
+    "ja": "今日は機能フラグを作成する必要があります。",
+    "example_en": "We need to create a feature flag today.",
+    "example_ja": "今日は機能フラグを作成する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-034",
+    "category": "it",
+    "level": 3,
+    "en": "Can you create a feature flag before lunch?",
+    "ja": "昼までに機能フラグを作成することはできますか？",
+    "example_en": "Can you create a feature flag before lunch?",
+    "example_ja": "昼までに機能フラグを作成することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-035",
+    "category": "it",
+    "level": 1,
+    "en": "We need to run performance tests today.",
+    "ja": "今日はパフォーマンステストを実行する必要があります。",
+    "example_en": "We need to run performance tests today.",
+    "example_ja": "今日はパフォーマンステストを実行する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-036",
+    "category": "it",
+    "level": 2,
+    "en": "Can you run performance tests before lunch?",
+    "ja": "昼までにパフォーマンステストを実行することはできますか？",
+    "example_en": "Can you run performance tests before lunch?",
+    "example_ja": "昼までにパフォーマンステストを実行することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-037",
+    "category": "it",
+    "level": 3,
+    "en": "We need to verify the API response today.",
+    "ja": "今日はAPIレスポンスを検証する必要があります。",
+    "example_en": "We need to verify the API response today.",
+    "example_ja": "今日はAPIレスポンスを検証する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-038",
+    "category": "it",
+    "level": 1,
+    "en": "Can you verify the API response before lunch?",
+    "ja": "昼までにAPIレスポンスを検証することはできますか？",
+    "example_en": "Can you verify the API response before lunch?",
+    "example_ja": "昼までにAPIレスポンスを検証することはできますか？",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-039",
+    "category": "it",
+    "level": 2,
+    "en": "We need to clean up the backlog today.",
+    "ja": "今日はバックログを整理する必要があります。",
+    "example_en": "We need to clean up the backlog today.",
+    "example_ja": "今日はバックログを整理する必要があります。",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "id": "it-040",
+    "category": "it",
+    "level": 3,
+    "en": "Can you clean up the backlog before lunch?",
+    "ja": "昼までにバックログを整理することはできますか？",
+    "example_en": "Can you clean up the backlog before lunch?",
+    "example_ja": "昼までにバックログを整理することはできますか？",
+    "tags": [
+      "it"
+    ]
+  }
+]
