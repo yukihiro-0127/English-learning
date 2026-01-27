@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>English Buddy | クイズ</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="quiz">
+    <header class="topbar">
+      <a class="logo" href="index.html">English Buddy</a>
+      <nav class="topnav" aria-label="Primary">
+        <a href="cards.html">カード</a>
+        <a href="quiz.html" aria-current="page">クイズ</a>
+        <a href="progress.html">進捗</a>
+        <a href="settings.html">設定</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="page-header">
+        <div>
+          <h1>クイズ</h1>
+          <p class="muted">10問・サバイバル・タイムアタックから選べます。</p>
+        </div>
+        <button class="button ghost" id="quiz-reset">リセット</button>
+      </section>
+
+      <section class="quiz-setup" id="quiz-setup">
+        <div class="control">
+          <label for="quiz-mode">モード</label>
+          <select id="quiz-mode">
+            <option value="ten">10問チャレンジ</option>
+            <option value="survival">サバイバル</option>
+            <option value="time">タイムアタック（60秒）</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="quiz-direction">出題方向</label>
+          <select id="quiz-direction">
+            <option value="en-ja">英語 → 日本語</option>
+            <option value="ja-en">日本語 → 英語</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="quiz-category">カテゴリ</label>
+          <select id="quiz-category">
+            <option value="all">すべて</option>
+            <option value="daily">Daily</option>
+            <option value="business">Business</option>
+            <option value="it">IT</option>
+          </select>
+        </div>
+        <button class="button primary" id="quiz-start">クイズを開始</button>
+      </section>
+
+      <section class="quiz-panel is-hidden" id="quiz-panel">
+        <div class="quiz-status">
+          <span class="label" id="quiz-progress">Question 1</span>
+          <span class="timer" id="quiz-timer">60s</span>
+        </div>
+        <div class="card quiz-card">
+          <p class="quiz-question" id="quiz-question">Loading...</p>
+          <div class="quiz-options" id="quiz-options"></div>
+        </div>
+        <div class="quiz-actions">
+          <button class="button ghost" id="quiz-skip">スキップ</button>
+          <button class="button secondary" id="quiz-speak">🔊 読み上げ</button>
+        </div>
+      </section>
+
+      <section class="modal is-hidden" id="quiz-result" aria-live="polite">
+        <div class="modal-content">
+          <h2>結果</h2>
+          <p class="stat-large" id="result-score">0%</p>
+          <div class="result-grid">
+            <div>
+              <p class="stat-value" id="result-correct">0</p>
+              <p class="stat-label">正解数</p>
+            </div>
+            <div>
+              <p class="stat-value" id="result-time">0s</p>
+              <p class="stat-label">平均時間</p>
+            </div>
+          </div>
+          <div class="result-actions">
+            <button class="button primary" id="result-retry">もう一度</button>
+            <button class="button ghost" id="result-review">間違えた問題で復習</button>
+            <a class="button secondary" href="progress.html">進捗を見る</a>
+          </div>
+          <ul class="result-list" id="result-wrong-list"></ul>
+        </div>
+      </section>
+    </main>
+
+    <nav class="tabbar" aria-label="Primary">
+      <a href="index.html" data-tab="home">ホーム</a>
+      <a href="cards.html" data-tab="cards">カード</a>
+      <a href="quiz.html" data-tab="quiz">クイズ</a>
+      <a href="progress.html" data-tab="progress">進捗</a>
+      <a href="settings.html" data-tab="settings">設定</a>
+    </nav>
+
+    <script src="script.js"></script>
+  </body>
+</html>
