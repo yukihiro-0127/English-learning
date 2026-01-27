@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>English Buddy | ホーム</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="home">
+    <header class="topbar">
+      <a class="logo" href="index.html" aria-label="English Buddy ホームへ">English Buddy</a>
+      <nav class="topnav" aria-label="Primary">
+        <a href="cards.html">カード</a>
+        <a href="quiz.html">クイズ</a>
+        <a href="progress.html">進捗</a>
+        <a href="settings.html">設定</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <div class="hero__text">
+          <p class="eyebrow">毎日5分から続く英語学習</p>
+          <h1>今日の英語、ここから始めよう。</h1>
+          <p class="lead">
+            日常会話・ビジネス・IT英語をまとめて学べる、ミニマルで続けやすい学習体験。
+          </p>
+          <div class="hero__actions">
+            <a class="button primary" href="cards.html">フラッシュカードを始める</a>
+            <a class="button ghost" href="quiz.html">クイズで挑戦する</a>
+          </div>
+        </div>
+        <div class="hero__media" aria-hidden="true">
+          <img src="assets/hero-illustration.svg" alt="" />
+        </div>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <h2>今日の学習</h2>
+          <p class="muted">連続学習日数やXPをチェックしよう。</p>
+          <div class="stat-grid">
+            <div>
+              <p class="stat-value" id="home-streak">0</p>
+              <p class="stat-label">連続日数</p>
+            </div>
+            <div>
+              <p class="stat-value" id="home-xp">0</p>
+              <p class="stat-label">XP</p>
+            </div>
+          </div>
+          <p class="badge" id="home-level">Lv. 1</p>
+        </article>
+
+        <article class="card">
+          <h2>続きから再開</h2>
+          <p class="muted">最後に学んだカードを表示します。</p>
+          <div class="resume-card" id="home-card">
+            <p class="label">Daily</p>
+            <h3 id="home-card-en">Loading...</h3>
+            <p class="muted" id="home-card-ja">読み込み中</p>
+          </div>
+          <a class="button secondary" href="cards.html">カード画面へ</a>
+        </article>
+
+        <article class="card">
+          <h2>おすすめ学習</h2>
+          <p class="muted">3カテゴリを5分ずつ回すのが最短ルート。</p>
+          <ul class="checklist">
+            <li>Daily：1分で短文を声に出す</li>
+            <li>Business：2問クイズに挑戦</li>
+            <li>IT：新しい用語を1つ覚える</li>
+          </ul>
+          <a class="button ghost" href="progress.html">進捗を確認</a>
+        </article>
+      </section>
+    </main>
+
+    <nav class="tabbar" aria-label="Primary">
+      <a href="index.html" data-tab="home">ホーム</a>
+      <a href="cards.html" data-tab="cards">カード</a>
+      <a href="quiz.html" data-tab="quiz">クイズ</a>
+      <a href="progress.html" data-tab="progress">進捗</a>
+      <a href="settings.html" data-tab="settings">設定</a>
+    </nav>
+
+    <script src="script.js"></script>
+  </body>
+</html>
