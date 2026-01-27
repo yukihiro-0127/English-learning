@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>English Buddy | フラッシュカード</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="cards">
+    <header class="topbar">
+      <a class="logo" href="index.html">English Buddy</a>
+      <nav class="topnav" aria-label="Primary">
+        <a href="cards.html" aria-current="page">カード</a>
+        <a href="quiz.html">クイズ</a>
+        <a href="progress.html">進捗</a>
+        <a href="settings.html">設定</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="page-header">
+        <div>
+          <h1>フラッシュカード</h1>
+          <p class="muted">タップで答えを表示。覚えた/まだで出題頻度を調整します。</p>
+        </div>
+        <button class="button ghost" id="cards-shuffle">シャッフル</button>
+      </section>
+
+      <section class="card-panel">
+        <div class="card-display" id="flashcard" role="button" tabindex="0" aria-pressed="false">
+          <div class="card-header">
+            <span class="label" id="card-category">Daily</span>
+            <button class="icon-button" id="card-speak" aria-label="読み上げ">
+              🔊
+            </button>
+          </div>
+          <div class="card-body">
+            <p class="card-text" id="card-front">Loading...</p>
+            <p class="card-text is-hidden" id="card-back">読み込み中</p>
+          </div>
+          <p class="hint" id="card-example">例文が表示されます。</p>
+          <button class="button secondary" id="card-reveal">答えを表示</button>
+        </div>
+
+        <div class="card-actions">
+          <button class="button ghost" id="card-prev">前へ</button>
+          <button class="button ghost" id="card-next">次へ</button>
+          <button class="button ghost" id="card-favorite">★ お気に入り</button>
+          <button class="button primary" id="card-known">覚えた</button>
+          <button class="button secondary" id="card-unknown">まだ</button>
+        </div>
+      </section>
+
+      <section class="controls">
+        <div class="control">
+          <label for="card-category-select">カテゴリ</label>
+          <select id="card-category-select">
+            <option value="all">すべて</option>
+            <option value="daily">Daily</option>
+            <option value="business">Business</option>
+            <option value="it">IT</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="card-level-select">難易度</label>
+          <select id="card-level-select">
+            <option value="all">すべて</option>
+            <option value="1">Lv.1</option>
+            <option value="2">Lv.2</option>
+            <option value="3">Lv.3</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="card-mode-select">表示モード</label>
+          <select id="card-mode-select">
+            <option value="en-ja">英語 → 日本語を隠す</option>
+            <option value="ja-en">日本語 → 英語を隠す</option>
+            <option value="both">両方表示</option>
+          </select>
+        </div>
+      </section>
+    </main>
+
+    <nav class="tabbar" aria-label="Primary">
+      <a href="index.html" data-tab="home">ホーム</a>
+      <a href="cards.html" data-tab="cards">カード</a>
+      <a href="quiz.html" data-tab="quiz">クイズ</a>
+      <a href="progress.html" data-tab="progress">進捗</a>
+      <a href="settings.html" data-tab="settings">設定</a>
+    </nav>
+
+    <script src="script.js"></script>
+  </body>
+</html>
