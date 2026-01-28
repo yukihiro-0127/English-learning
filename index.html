@@ -3,88 +3,108 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>English Buddy | ホーム</title>
+    <title>English Buddy - はじめての英語学習サポート</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body data-page="home">
-    <header class="topbar">
-      <a class="logo" href="index.html" aria-label="English Buddy ホームへ">English Buddy</a>
-      <nav class="topnav" aria-label="Primary">
-        <a href="cards.html">カード</a>
-        <a href="quiz.html">クイズ</a>
-        <a href="progress.html">進捗</a>
-        <a href="settings.html">設定</a>
-        <a href="about.html">About</a>
-      </nav>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="hero__eyebrow">はじめてのプログラミングで作る英語学習サイト</p>
+        <h1>English Buddy</h1>
+        <p class="hero__lead">
+          日常会話・ビジネス・IT用語まで、これからの英語学習をまとめてサポート。
+        </p>
+        <div class="hero__actions">
+          <button class="primary" type="button" id="start-plan">今日の学習プランを見る</button>
+          <button class="ghost" type="button" id="shuffle-card">フラッシュカードを切り替え</button>
+        </div>
+      </div>
+      <figure class="hero__media">
+        <img src="assets/hero-illustration.svg" alt="英語学習の進捗をまとめたダッシュボードのイメージ" />
+      </figure>
+      <div class="hero__card" id="flashcard">
+        <p class="card__label" id="card-tag">Daily</p>
+        <h2 id="card-term">Nice to meet you.</h2>
+        <p id="card-meaning">はじめまして。</p>
+        <p class="card__hint" id="card-hint">シーン: 自己紹介</p>
+      </div>
     </header>
 
-    <main class="container">
-      <section class="hero">
-        <div class="hero__text">
-          <p class="eyebrow">毎日5分から続く英語学習</p>
-          <h1>今日の英語、ここから始めよう。</h1>
-          <p class="lead">
-            日常会話・ビジネス・IT英語をまとめて学べる、ミニマルで続けやすい学習体験。
-          </p>
-          <div class="hero__actions">
-            <a class="button primary" href="cards.html">フラッシュカードを始める</a>
-            <a class="button ghost" href="quiz.html">クイズで挑戦する</a>
-          </div>
-        </div>
-        <div class="hero__media" aria-hidden="true">
-          <img src="assets/hero-illustration.svg" alt="" />
-        </div>
+    <main>
+      <section class="grid">
+        <article>
+          <h3>1. 日常会話の土台</h3>
+          <ul>
+            <li>朝・昼・夜のあいさつ</li>
+            <li>相づちとリアクション</li>
+            <li>短い自己紹介</li>
+          </ul>
+          <p class="note">まずは「言える安心感」を作るのが最優先。</p>
+        </article>
+        <article>
+          <h3>2. ビジネス英語の型</h3>
+          <ul>
+            <li>ミーティングでの発言</li>
+            <li>メールの定番フレーズ</li>
+            <li>依頼・報告・相談</li>
+          </ul>
+          <p class="note">型を覚えると応用がしやすい。</p>
+        </article>
+        <article>
+          <h3>3. IT業界の頻出用語</h3>
+          <ul>
+            <li>Requirement / Spec / Deadline</li>
+            <li>Deploy / Release / Rollback</li>
+            <li>Stand-up / Sprint / Backlog</li>
+          </ul>
+          <p class="note">現場でよく耳にする単語からスタート。</p>
+        </article>
       </section>
 
-      <section class="grid">
-        <article class="card">
-          <h2>今日の学習</h2>
-          <p class="muted">連続学習日数やXPをチェックしよう。</p>
-          <div class="stat-grid">
-            <div>
-              <p class="stat-value" id="home-streak">0</p>
-              <p class="stat-label">連続日数</p>
-            </div>
-            <div>
-              <p class="stat-value" id="home-xp">0</p>
-              <p class="stat-label">XP</p>
-            </div>
-          </div>
-          <p class="badge" id="home-level">Lv. 1</p>
-        </article>
+      <section class="howto">
+        <h2>操作のしかた（初心者向け）</h2>
+        <ol>
+          <li>このフォルダ内の <strong>index.html</strong> をダブルクリックするとブラウザで開けます。</li>
+          <li>もう少し本格的に見るなら、ターミナルで <code>python -m http.server</code> を実行し、<code>http://localhost:8000</code> を開きます。</li>
+          <li>画面上の「今日の学習プランを見る」や「フラッシュカードを切り替え」を押して動作確認できます。</li>
+        </ol>
+        <p class="note">困ったら「どこまで表示できたか」をメモして教えてくれれば一緒に直します。</p>
+      </section>
 
-        <article class="card">
-          <h2>続きから再開</h2>
-          <p class="muted">最後に学んだカードを表示します。</p>
-          <div class="resume-card" id="home-card">
-            <p class="label">Daily</p>
-            <h3 id="home-card-en">Loading...</h3>
-            <p class="muted" id="home-card-ja">読み込み中</p>
-          </div>
-          <a class="button secondary" href="cards.html">カード画面へ</a>
-        </article>
+      <section class="plan" id="plan">
+        <div>
+          <h2>今日の学習プラン（30分）</h2>
+          <ol>
+            <li><strong>5分:</strong> フラッシュカードで声に出す</li>
+            <li><strong>10分:</strong> Dailyフレーズを3つ使って会話を作る</li>
+            <li><strong>10分:</strong> Businessフレーズをメール風に書く</li>
+            <li><strong>5分:</strong> IT用語を1つ調べて例文を書く</li>
+          </ol>
+        </div>
+        <aside class="tips">
+          <h3>コツ</h3>
+          <p>「完璧に話す」より「伝わる」を意識する。</p>
+          <p>毎日続けられる量に分割する。</p>
+        </aside>
+      </section>
 
-        <article class="card">
-          <h2>おすすめ学習</h2>
-          <p class="muted">3カテゴリを5分ずつ回すのが最短ルート。</p>
-          <ul class="checklist">
-            <li>Daily：1分で短文を声に出す</li>
-            <li>Business：2問クイズに挑戦</li>
-            <li>IT：新しい用語を1つ覚える</li>
-          </ul>
-          <a class="button ghost" href="progress.html">進捗を確認</a>
-        </article>
+      <section class="cta">
+        <h2>次に作りたい機能は？</h2>
+        <p>単語帳、スピーキング練習、学習ログ…次の実装の候補を決めよう。</p>
+        <div class="cta__options">
+          <button type="button" class="ghost" data-topic="vocab">単語帳を作る</button>
+          <button type="button" class="ghost" data-topic="speaking">発音練習を追加</button>
+          <button type="button" class="ghost" data-topic="log">学習ログを記録</button>
+        </div>
+        <p class="cta__result" id="cta-result">ボタンを押すと次の学習テーマが表示されます。</p>
       </section>
     </main>
 
-    <nav class="tabbar" aria-label="Primary">
-      <a href="index.html" data-tab="home">ホーム</a>
-      <a href="cards.html" data-tab="cards">カード</a>
-      <a href="quiz.html" data-tab="quiz">クイズ</a>
-      <a href="progress.html" data-tab="progress">進捗</a>
-      <a href="settings.html" data-tab="settings">設定</a>
-    </nav>
+    <footer>
+      <p>はじめてのプログラミングでも、少しずつ積み上げよう。</p>
+    </footer>
 
     <script src="script.js"></script>
   </body>
 </html>
+
