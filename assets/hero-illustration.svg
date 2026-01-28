@@ -1,0 +1,19 @@
+<svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="520" rx="40" fill="#F6F8FF"/>
+  <rect x="60" y="70" width="600" height="380" rx="28" fill="#FFFFFF" stroke="#E1E6F4" stroke-width="2"/>
+  <rect x="110" y="120" width="280" height="34" rx="10" fill="#EAF0FF"/>
+  <rect x="110" y="170" width="380" height="22" rx="8" fill="#F2F5FF"/>
+  <rect x="110" y="210" width="340" height="22" rx="8" fill="#F2F5FF"/>
+  <rect x="110" y="250" width="320" height="22" rx="8" fill="#F2F5FF"/>
+  <rect x="110" y="300" width="160" height="42" rx="18" fill="#2F5BEA"/>
+  <circle cx="525" cy="245" r="90" fill="#EEF2FF"/>
+  <path d="M500 205C500 187.327 514.327 173 532 173C549.673 173 564 187.327 564 205V288C564 305.673 549.673 320 532 320C514.327 320 500 305.673 500 288V205Z" fill="#D8E2FF"/>
+  <path d="M480 270C480 238.52 505.52 213 537 213H576C607.48 213 633 238.52 633 270C633 301.48 607.48 327 576 327H537C505.52 327 480 301.48 480 270Z" fill="#FFFFFF" stroke="#C7D4FF" stroke-width="2"/>
+  <path d="M518 270L536 287L579 244" stroke="#2F5BEA" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="110" y="370" width="430" height="18" rx="8" fill="#F2F5FF"/>
+  <circle cx="165" cy="120" r="10" fill="#2F5BEA"/>
+  <circle cx="195" cy="120" r="10" fill="#7B9CFF"/>
+  <circle cx="225" cy="120" r="10" fill="#B4C6FF"/>
+  <text x="110" y="108" font-family="'Noto Sans JP', sans-serif" font-size="18" fill="#1D2433">Learning Dashboard</text>
+  <text x="140" y="188" font-family="'Noto Sans JP', sans-serif" font-size="14" fill="#5C6579">Daily・Business・IT を一緒に</text>
+</svg>
